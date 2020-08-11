@@ -5,9 +5,9 @@ permalink: /about/
 weight: 3
 ---
 
-# **About Me**
+# **Keep it simple**
 
-Hi I am **Kanak**,<br>
+Unlocked a mobile broadband modem in my early teenage, following some crack-the-heck docs. Fell in love with underlying workings behind-the-scene since then.<br>
 
 <!-- <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
