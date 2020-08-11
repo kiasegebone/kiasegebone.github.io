@@ -27,16 +27,18 @@ author:
 #  behance           : your_username
 # dribbble          : your_username
   email             : kdkanakdas@gmail.com
-  facebook          : kangstein
-  github            : musophobia
   gitlab            : kknock
-  instagram         : __kanak
-# kaggle            : your_username
+  github            : musophobia
+  stackoverflow     : 7941480
   linkedin          : musophobia
+  facebook          : kangstein
+  instagram         : __kanak
+  soundcloud        : kanakdas
+# kaggle            : your_username
   medium            : kanakdas
-# soundcloud        : your_username
+
 # spotify           : your_username
-# stackoverflow     : your_user_id
+  
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
 #  twitter           : your_username
@@ -63,9 +65,9 @@ disqus: your-short-name-disqus                          # Your website Shortname
 
 ### Analytics ###
 analytics:
-  enabled: false                                        # Set true to enable analytics
+  enabled: true                                        # Set true to enable analytics
   google:
-    tracking_id: your-google-tracking-id
+    tracking_id: UA-175170897-1
 
 
 ### Defaults for collections ###
