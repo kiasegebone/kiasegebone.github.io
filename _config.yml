@@ -1,6 +1,6 @@
 ### Site Settings ###
 title               : Kanak Das
-description         : https://www.goodreads.com/quotes/tag/life
+description         : Dhaka, Bangladesh<br>1405043.kd@ugrad.cse.buet.ac.bd<br>kdkanakdas@gmail.com
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : kiasegebone/kiasegebone.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : kiasegebone/kiasegebone.github.io
@@ -26,13 +26,13 @@ author:
   image             : /assets/kanak.jpg
 #  behance           : your_username
 # dribbble          : your_username
-  email             : kdkanakdas@gmail.com
-  gitlab            : kknock
+  # email             : kdkanakdas@gmail.com
   github            : musophobia
+  gitlab            : kknock
   stackoverflow     : 7941480
   linkedin          : musophobia
-  facebook          : kangstein
-  instagram         : __kanak
+  # facebook          : kangstein
+  # instagram         : __kanak
   soundcloud        : kanakdas
 # kaggle            : your_username
   medium            : kanakdas
