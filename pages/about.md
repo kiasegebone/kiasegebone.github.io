@@ -5,9 +5,13 @@ permalink: /about/
 weight: 3
 ---
 
-# **Keep it simple**
+# **About Me**
 
-Unlocked a mobile broadband modem in my early teenage, following some crack-the-heck docs. Fell in love with underlying workings behind-the-scene since then.<br>
+Hi, I'm Kanak.<br>
+Unlocked a country-locked-second-hand mobile broadband modem in my early teenage, following some crack-the-heck docs.
+Been in love with reading documentations to make and break stuffs since then.<br>
+Nowadays, I'm an avid enthusiast of **software engineering**, **systems security** and **machine learning**.<br>
+Besides coding, reading and implementing research papers, I love consuming books, travelling, illustrating digital art and football(the soccer one).<br>
 
 <!-- <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
