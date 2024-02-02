@@ -1,6 +1,6 @@
 ### Site Settings ###
 title               : Kanak Das
-description         : Dhaka, Bangladesh<br>1405043.kd@ugrad.cse.buet.ac.bd<br>kdkanakdas@gmail.com
+description         : 
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : kiasegebone/kiasegebone.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : kiasegebone/kiasegebone.github.io
@@ -13,8 +13,10 @@ plugins:
 
 ### Navbar Settings ###
 nav_exclude:                                            # The following paths are excluded from navbar
-  # - pages/projects.html
+  - pages/projects.html
   - pages/tags.html
+  - pages/research.html
+  - pages/about.md
   # - pages/404.html
   # - pages/index.md
   - documentation/partials/**                           # For Documentation Only
@@ -26,16 +28,16 @@ author:
   image             : /assets/kanak.jpg
 #  behance           : your_username
 # dribbble          : your_username
-  # email             : kdkanakdas@gmail.com
-  github            : musophobia
-  gitlab            : kknock
+  email             : kdas006@ucr.edu
+  github            : kanaksad
+  # gitlab            : kanaksad
   stackoverflow     : 7941480
   linkedin          : musophobia
   # facebook          : kangstein
   # instagram         : __kanak
-  soundcloud        : kanakdas
+  # soundcloud        : kanakdas
 # kaggle            : your_username
-  medium            : kanakdas
+  # medium            : kanakdas
 
 # spotify           : your_username
   
