@@ -1,6 +1,8 @@
 # Ruby Gems
 *.gem
 _site/**/*
+_site/**/*.html
+_site/**/*.lock
 # Design Files
 *.psd
 *.ai
