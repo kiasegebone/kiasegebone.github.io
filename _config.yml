@@ -69,7 +69,7 @@ disqus: your-short-name-disqus                          # Your website Shortname
 analytics:
   enabled: true                                        # Set true to enable analytics
   google:
-    tracking_id: UA-175170897-1
+    tracking_id: G-NTLH5M9JLM
 
 
 ### Defaults for collections ###
