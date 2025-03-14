@@ -1,6 +1,6 @@
 # Ruby Gems
 *.gem
-_site
+_site/**/*
 # Design Files
 *.psd
 *.ai
